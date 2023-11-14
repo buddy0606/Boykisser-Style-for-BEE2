@@ -1,0 +1,36 @@
+"ID"    "Boykisser"
+"Name"  "Boykisser Style"
+"Desc"  "Boykisser Style... if you have this you like kissing boys!"
+
+"Prerequisites"
+	{
+	"Package"	"BEE2_CLEAN_STYLE"
+	}
+
+"Style"
+	{
+	"ID"          "Boykisser_Style"
+	"Authors"     "06LittleBuddy"
+	"Folder"      "BK_Style"
+	"Group"			"06LittleBuddy"
+	"Icon"        "styles/boykisser.png"
+	"IconLarge"   "prev/BoyKisserStyle.jpg"
+	"Name"        "Boykisser Style"
+	"Base"        "BEE2_CLEAN"
+	"VPK_Name"  "VPK_BEE2_BK"
+	"Has_Video"   "1"
+	"Description" "You Are A Boykisser For Using This"
+	"Suggested"
+		{
+		"Music"  "VALVE_PETI"
+		"Skybox" "BEE2_CLEAN"
+		"Elev"   "<NONE>"
+		}
+	}
+
+"StyleVPK"
+	{
+	"ID"       "VPK_BEE2_BK"
+	"Filename" "boykisserstyle"
+	}
+
