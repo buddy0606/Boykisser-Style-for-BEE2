@@ -27,10 +27,57 @@
 		"Elev"   "<NONE>"
 		}
 	}
+"Style"
+	{
+	"ID"          "Troll_Style"
+	"Authors"     "06LittleBuddy"
+	"Folder"      "Troll_Style"
+	"Group"			"06LittleBuddy"
+	"Icon"        "styles/clean.png"
+	"IconLarge"   "prev/clean.png"
+	"Name"        "Clean"
+	"Base"        "BEE2_CLEAN"
+	"VPK_Name"  "VPK_BEE2_Troll"
+	"Has_Video"   "1"
+	"Description" "Just the clean style? no lol, WIP troll style"
+	"Suggested"
+		{
+		"Quote"  "BEE2_GLADOS_CLEAN"
+		"Music"  "VALVE_PETI"
+		"Skybox" "BEE2_CLEAN"
+		"Elev"   "VALVE_APERTURE_LOGO"
+		}
+	}
 
 "StyleVPK"
 	{
 	"ID"       "VPK_BEE2_BK"
 	"Filename" "boykisserstyle"
 	}
+"StyleVPK"
+	{
+	"ID"       "VPK_BEE2_Troll"
+	"Filename" "trollstyle"
+	}
+//"Overrides"
+	//{
+	//"Item"
+		//{
+		//"ID" "ITEM_TURRET" 
+		//"Version" 
+			//{ 
+			//"Styles" 
+				//{ 
+				//"Troll_Style" 
+					//{ 
+					//"Base" "BEE2_CLEAN" 
+					//"Instances" 
+						//{ 
+						//"0" "instances/BEE2/littlebuddy/turret.vmf" 
+						//} 
+					//} 
+				//} 
+			//}
+		//} 
+	//}
 
