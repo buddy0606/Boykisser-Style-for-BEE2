@@ -1,0 +1,10 @@
+VertexlitGeneric
+{
+$basetexture "models\props\littlebuddy\bk_portal_door_02_1"
+
+$selfillum 1
+
+
+
+
+}
